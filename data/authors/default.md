@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
+name: Hoan Do
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
+occupation: Blockchain developer
+company: Icetea Labs
+email: hoando.dev@gmail.com
 twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+linkedin: https://linkedin.com/in/hoan-do/
+github: https://github.com/scriptkid23
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Xin chào, tớ là Hoàn nhé, mục đích chính tạo ra blog này là tớ lười đọc sách nên đang tìm chút động lực để đọc sách nhiều hơn.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hình như tớ bị hội chứng não cá vàng thì phải 😰. Nên cũng ghi lại những điều mà tớ thấy thú vị nhất để sau quên còn xem lại 😘
