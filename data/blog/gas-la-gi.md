@@ -1,5 +1,5 @@
 ---
-title: GAS là gì?
+title: GAS là gì ?
 date: '2022-03-28'
 tags: ['Blockchain', 'GAS', 'ethereum']
 draft: false
@@ -12,7 +12,7 @@ GAS là đơn vị đo lường công việc tính toán cần thiết để th�
 
 GAS được chia thành 3 phần: **GAS cost**, **GAS price** và **GAS limit**. Trong Ethereum chi phí giao dịch được tính với công thức
 
-$ transactionFee(txFee) = actualGasCost \* gasPrice $
+$ transactionFee(txFee) = actualGasCost * gasPrice $
 
 - **GAS Cost** chỉ ra rằng mỗi opcode cần bao nhiêu GAS, được xác định trước trong Ethereum yellow paper[thêm link tham khảo]. Ví dụ: một opcode “Addition” cần 3 GAS, bất kể sự biến động của giá ether thì GAS cho mỗi opcode sẽ không bị thay đổi. Đó là lý do tại sao GAS được sử dụng để ước tính chi phí của một giao dịch thay vì ether. Nếu ether được sử dụng cho chi phí GAS, giá có thể thay đổi mạnh.
 - **GAS Price** cho biết một đơn vị GAS tương đương với bao nhiêu ether. Có một số trang web cung cấp giá trung bình của GAS Price ví dụ như: ethgasstation.info, etherscan.io/chart/gasprice. Đôi khi, người dùng có thể sẵn sàng trả giá cao hơn để làm cho giao dịch của họ được ưu tiên trong việc được các thợ đào chọn và thực hiện.
