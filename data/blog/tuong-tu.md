@@ -1,7 +1,7 @@
 ---
-title: Ôi! Định lý CAP
+title: Mình đã cảm nắng một người lạ!
 date: '2022-09-18'
-tags: ['Secret affair', 'Series']
+tags: ['Secret affair', 'Series', 'Bus']
 draft: false
 summary: Mình đã cảm nắng một người lạ!
 ---
