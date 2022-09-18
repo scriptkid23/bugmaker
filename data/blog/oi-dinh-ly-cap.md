@@ -3,6 +3,7 @@ title: Ôi! Định lý CAP
 date: '2022-03-28'
 tags: ['Blockchain', 'CAP']
 draft: false
+images: ['/static/images/cap/cap.jpeg']
 summary: Giới thiệu tổng quan về định lý CAP
 ---
 

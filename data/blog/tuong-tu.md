@@ -3,6 +3,7 @@ title: Loser cảm nắng
 date: '2022-09-18'
 tags: ['Secret affair', 'Series', 'Bus']
 draft: false
+images: ['/static/images/tuongtu/loser.jpg']
 summary: Tâm sự của một loser cảm nắng
 ---
 
