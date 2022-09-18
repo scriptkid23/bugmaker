@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Chuyện của Hoàn',
   author: 'HoanDo.',
-  headerTitle: 'Hoandey',
+  headerTitle: 'SJ.Hoando',
   description: 'Những điều thú vị được ghi lại ở đây.',
   language: 'en-us',
   theme: 'system', // system, dark or light
