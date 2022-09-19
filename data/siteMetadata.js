@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'Những điều thú vị được ghi lại ở đây.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://losers.vercel.app',
+  siteUrl: 'https://loserv.blog',
   siteRepo: 'https://github.com/scriptkid23/bugmaker',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
