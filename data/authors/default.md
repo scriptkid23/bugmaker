@@ -1,7 +1,7 @@
 ---
 name: Hoan Do
 avatar: /static/images/avatar.png
-occupation: Blockchain developer
+occupation: Fullstack Developer
 company: Icetea Labs
 email: hoando.dev@gmail.com
 twitter: https://twitter.com/Twitter
