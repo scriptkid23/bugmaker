@@ -1,5 +1,5 @@
 ---
-title: Ôi! Định lý CAP
+title: Định lý CAP
 date: '2022-03-28'
 tags: ['Blockchain', 'CAP']
 draft: false
