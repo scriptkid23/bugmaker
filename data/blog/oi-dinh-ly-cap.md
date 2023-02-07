@@ -1,5 +1,5 @@
 ---
-title: Định lý CAP
+title: Định lý CAP là gì?
 date: '2022-03-28'
 tags: ['Blockchain', 'CAP']
 draft: false
