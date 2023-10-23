@@ -11,6 +11,12 @@ const projectsData = [
     imgSrc: '/static/images/snews.jpg',
     href: 'https://github.com/SpirityVN/read-to-earn-frontend',
   },
+  {
+    title: 'Skybound',
+    description: 'Skybound is an exhilarating online game that will take you on a thrilling adventure. Set in a mesmerizing virtual world, this game challenges players to navigate their way up a towering tower using the unique mechanic of jumping. Prepare yourself for a test of skill, as Skybound offers a high level of difficulty that will push your gaming abilities to the limit.',
+    imgSrc: '/static/images/skybound.png',
+    href: 'https://skybound.spirity.org',
+  }
 ]
 
 export default projectsData
