@@ -1,19 +1,15 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'LinguaSwitch',
+    description: `LinguaSwitch is a Chrome browser extension designed to automatically switch the language from Vietnamese to English in the Facebook chat box quickly and conveniently.`,
+    imgSrc: 'https://doc-14-3c-docs.googleusercontent.com/docs/securesc/e7f1ei5uu5g7qgg9fi2696g7edfdg0fs/ib5s6l7q3jk6tn6mcsv89fbk3q93knq6/1698050625000/10481825280176891962/10481825280176891962/1m3Qj6dm3p_2uWrhzRiStAaUTzi12oUST?e=view&ax=AI0foUrSeKg32uTd8GsFwkIoBdJSAn-fgPv82WaZAb3tRa_AoxKzmjecsCtLeNm2t9tqh-EwTOeGqwRVt6ugdIc05oXlSVD_qHwfb4QXUpcu1NpUC4gnJGTRayZbj6FGkuB570ZjJnf6KvdKrNORxBKwDE72ZX6Oq6YAoQ28up8N85Lp_lbvJmUD9ZQoGLAM35pgpk8hqaHOZL_FNzT-bocToORsAZNs0g_vmgkLpdYaIGzBciaRVmwZdxi7yKuHq4UKwT8gf_qKh-kxXnIVCPUmQW0FST9XqD1fNgeUcLSMQtw3dszL5Vmwz8X3oNjGeFl8cMpu29iu6D_iXA5dQ4prAoDJ08rYLgVjNOqb1sAlkCOcBFMzMoZWHkyomyDlG3opbubi_g2fAGlJ1TWjfDursw5E9BCFMvuM8ENTelBMIe1dOvHexe-x1rqNmLTvv3eiiYBI27iAczUvr0s3pCux-_zeJfJFBH7LHvIslq0a8smoH_GqqWYYuWLmJTlcJnIT1R28N5v-fRLwwQDgbno9qUmtyZsA3fEzntXaGH_DPhf_x38lWdViZX-SFZ7E3DSJ5xb3vIzjAS765Chg3a1-McNSAHgZSAdPBWNc26G623cZUvG4ad9yEpV_RVbfnAobVc7tJl4dMdd2ZEDC7jmDl9Ipr49Oys-06-okEKMBqFsPyMzV1v7igvD838lOPNuiX_XUb3rHPEFUF0T1E6k2F1_0FYcPU3xEF-3Bf3B5_7ByEt0of99xbxhk4I5EjAreVVYnrIujAowqh7kezn4d_yReGECLgOy9gNqKltoCwWAD5qm8bB1c5sLWBZeLlqM0LhtrXaZGs2VFvD6u1kcRXlNxMWFFh4QUeum6OCQpP7WXPccTbibe8awcJZMpYFsjJcR7r3J8SxDEUhUjUPa6PR2K8_-8orHuMJguLFt1KcejKnuzeupDffYkB4qSZddXAstiNnANbOBxEPTlaTHwcq0yKS_NwIQPlzPxgzoQ2dByfCAXJYd5tiFAUAsC2577woCQswD6UoEJ&uuid=b77d44b6-4246-46ea-938e-0c311d347be6&authuser=0&nonce=nsc7ilsf9sliq&user=10481825280176891962&hash=000pekf5k8kohgg1s5sj11sjmpvm0094',
+    href: 'https://github.com/scriptkid23/LinguaSwitch',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Snews',
+    description: `In the digital age, where information is readily available at our fingertips, the concept of "read to earn" has emerged as an innovative way to incentivize reading. With these programs, individuals can earn money or rewards by engaging in reading activities, such as reading articles, news, or books. This article explores the growing trend of "read to earn" software programs and their potential benefits for both readers and content creators.`,
+    imgSrc: 'https://doc-0g-3c-docs.googleusercontent.com/docs/securesc/e7f1ei5uu5g7qgg9fi2696g7edfdg0fs/u1go2j0kk2h8vv6r8hr7d8sa9c0mupm4/1698051000000/10481825280176891962/10481825280176891962/1njQ1GFKUOMHzTDaSN9s8cBBrc7pmT6gi?e=view&ax=AI0foUp3Aw8CcenLqR2MpjOsdOO_7ZSZ1b8-D4DrFWvUdisSfIBhzxFzjRY8plbAgoHbCcZi4_TbMIuGeVNp0MvnJA5JDisljvZ9P4pXlfezP6zp16OlLN7u2un4QUj90oBFRszgfgAX4IMecpqiJR4tyPj23EovyUxLOQGNxvRoMzmMymDxXW5s9FE9lgRs9yPrFDg-0isfc7AFd0iX_sL3sOjUYylvE78Ri22hjx9dbcn0-96UOx8f2hmPftDMCiPPzh95aZQJv6Vi5kGpf-K4lJlePyBUEPmfKbDYFDLqYhszskWaCZ-79mWb6tFemwdUB6xMqvIju8T0hN2o2LNP1e-r2G_wKzI87ilbOjRN-f1w2rf2F-hxq15SB0vDUdX3G6PiVdEcaeWFaShSKAKbk9XMo1C-wiMzMNEWYQSmMKLOF_faFcslN2dM_kR4x5UwISiS05wI0_DxFJP3WxKM2Ci4Pld-g6e0LuHGtsrXM_-idZ8CrlexvDo-HSnB_kvhoq8VTSd0tUjF1x5nis5NXMfMMT0hUGdODR3JnTp6WOma6CfKubofZswQXEO0Mr2ihXol-Eg2GdzVQf-X1YiNxwtFnXpoVmAg2zJGggRGSgJO7ispOnx5sjmcrqXrMCylpW7vghLZsOkbkSbbwl5YjjZZc7rpof_a2_Yx7nkHC-b12AJL3MD5YgwiN8jOWysgJZJkATlP3mGG0o_VcjVv9SaZkVjI83_AHSSyLHWxj97GxH2y_rACKdIvUtJwsSLjk_MdVzXtIoaDer7UEco4T_qxBMYTkbhOeC6pzNxo_yJESVpZIUdXpmMdWxQB09wPoqw3ZC7opEUTshoFLFfAKfqiN9GpTrELWIVb9qA4meHbr_GEA6seYH6tcrv3la7tevm3tWOV7wcH67P94UBGEn2ccrFBYaKrAfdFkLzAW6QIAJnhysIFXzwkNcm_83j7k0whR2H7rf2sR2jFgXiKvrCBqLCjAqLf9JRlQKfkVZ-SygwkmpcUv_2zt-CEmYjkRU9C1wIqLdw7&uuid=27aa997a-adec-4fa1-91bc-c890d60f94f8&authuser=0&nonce=57373ujfcd5he&user=10481825280176891962&hash=q2ho10alb7t4pcnnqqvub4eujvnrts84',
+    href: 'https://github.com/SpirityVN/read-to-earn-frontend',
   },
 ]
 
