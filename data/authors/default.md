@@ -9,6 +9,6 @@ linkedin: https://linkedin.com/in/hoan-do/
 github: https://github.com/scriptkid23
 ---
 
-Xin chào, tớ là Hoàn nhé, mục đích chính tạo ra blog này là tớ lười đọc sách nên đang tìm chút động lực để đọc sách nhiều hơn.
+Hello, I'm Hoan. The main purpose of creating this blog is that I'm lazy to read books, so I'm trying to find some motivation to read more.
 
-Hình như tớ bị hội chứng não cá vàng thì phải 😰. Nên cũng ghi lại những điều mà tớ thấy thú vị nhất để sau quên còn xem lại 😘
+It seems like I have a case of goldfish brain syndrome 😰. So, I'm documenting the most interesting things I come across so that I can review them later and not forget. 😘
