@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Chuyện của Hoàn',
+  title: "hanod's Story",
   author: 'HoanDo.',
-  headerTitle: 'SJ.Hoando',
-  description: 'Những điều thú vị được ghi lại ở đây.',
+  headerTitle: 'hanod',
+  description: 'Interesting things recorded here.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://loserv.blog',
